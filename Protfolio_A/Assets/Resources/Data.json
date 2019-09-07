@@ -1,0 +1,14 @@
+{"ListWeaponData":
+[
+  {
+    "weapon": 0,
+    "amount": 5,
+    "damage": 30
+  },
+  {
+    "weapon": 1,
+    "amount": 15,
+    "damage": 5
+  }
+]
+}
